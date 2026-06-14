@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Tesla VIN Decoder",
+  "version": "1.0",
+  "description": "Auto-detects Tesla VINs on any page — click to decode",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "exclude_matches": ["https://dan-nguyen.github.io/vinbot/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
