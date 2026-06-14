@@ -1,4 +1,4 @@
-# vin-userscripts
+# vinbot-userscripts
 
 Browser extensions for [vinbot](https://github.com/dan-nguyen/vinbot) — a Tesla VIN decoder.
 
