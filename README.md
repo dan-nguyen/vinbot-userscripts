@@ -1,8 +1,10 @@
-# vinbot-userscripts
+# vin-userscripts
 
 Browser extensions for [vinbot](https://github.com/dan-nguyen/vinbot) — a Tesla VIN decoder.
 
 Auto-detects Tesla VINs on any webpage and shows a decoded popup on click.
+
+![Chrome extension decoding a Model X VIN on the Tesla inventory page](demo.png)
 
 ## Included
 
